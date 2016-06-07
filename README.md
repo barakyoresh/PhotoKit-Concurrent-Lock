@@ -2,7 +2,7 @@
 Demo application that displays a single collection view of PhotoKit images.
 
 ## Reproducing issue
-1. Open the app, make sure you give access to the photo library.
+1. Open the app via Xcode with access to the debugger, make sure you give access to the photo library.
 2. Scroll vigorously through the images.
 
 ### Expected results
